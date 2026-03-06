@@ -1,13 +1,13 @@
 # Sistema de Cadastro de Estudantes
 
 ## Descrição
-[cite_start]API REST desenvolvida em Spring Boot para a disciplina de ADS[cite: 31].
+API REST desenvolvida em Spring Boot para a disciplina de ADS.
 
 ## Endpoints Disponíveis
-- [cite_start]`GET /api/sistema/info`: Status do sistema[cite: 40].
-- [cite_start]`GET /api/cursos`: Lista todos os cursos[cite: 44].
-- [cite_start]`GET /api/cursos/{id}`: Busca curso por ID[cite: 48].
-- [cite_start]`GET /api/estudantes/{matricula}`: Dados do estudante[cite: 52].
+- GET /api/sistema/info`: Status do sistema
+- GET /api/cursos`: Lista todos os cursos
+- GET /api/cursos/{id}`: Busca curso por ID
+- GET /api/estudantes/{matricula}`: Dados do estudante
 
 ## Como Executar
 1. Clone o repositório.
